@@ -5,6 +5,6 @@ version: 0.1
 description: See information about the server in an UI format!
 api: [3.0.0]
 commands:
-    info:
+    helpui:
         default: true
         description: Opens Information Menu!
